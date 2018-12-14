@@ -2,7 +2,7 @@
 A quick start project that helps you to create the Syncfusion Angular 6 DatePicker.
 
 
-![Angular 6 DatePicker](angular6datepicker.png "Angualar 6 Datepicker")
+![Angular 6 DatePicker](angular6datepicker.png "Angualar 6 DatePicker")
 
 This is a Angular 6 project generated using [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3. The Datepicker features included in this project are as follows.
 * Min - Starting date that can be selected.
